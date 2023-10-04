@@ -1,0 +1,4 @@
+personal:inuka,reddit,inuka.asel@gmail.com,2000/09/23
+office_friend:kamal,little.chenuka@gmail.com,ceo,2003/09/23
+official:nimal,nimal@gmail.com,ceo
+office_friend:shan,inuka.20@cse.mrt.ac.lk,ceo,2004/09/24
